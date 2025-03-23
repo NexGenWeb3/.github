@@ -14,24 +14,24 @@
         />
     </picture>
 </p>
-<h1 align="center">Hi 👋, We're OpenAl</h1>
+<h1 align="center">Hi 👋, We're NexGenWeb3</h1>
 <h3 align="center">Crafting Digital Goodies.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=openai-ae" alt="openai-ae" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_openal" target="blank"><img src="https://img.shields.io/twitter/follow/_openal?logo=twitter&style=for-the-badge" alt="_openal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_NexGenWeb3" target="blank"><img src="https://img.shields.io/twitter/follow/_NexGenWeb3?logo=twitter&style=for-the-badge" alt="_NexGenWeb3" /></a> </p>
 
-- 🔭 I’m currently working on [AGI Developmenet](Cmon.pw)
+- 🔭 I’m currently working on [AGI Developmenet](_NexGenWeb3.com)
 
 - 🌱 I’m currently learning **How To Communicate**
 
-- 👯 I’m looking to collaborate on [OpenAl Platform](openal.ae.org)
+- 👯 I’m looking to collaborate on [NexGenWeb3 Platform](NexGenWeb3.com)
 
-- 🤝 I’m looking for help with [Funding, Projects](openal.ae.org/about-us.html)
+- 🤝 I’m looking for help with [Funding, Projects](NexGenWeb3.ae.org/about-us.html)
 
-- 👨‍💻 All of my projects are available at [github.com/openai-ae](github.com/openai-ae)
+- 👨‍💻 All of my projects are available at [github.com/openai-ae](github.com/_NexGenWeb3)
 
-- 📝 I regularly write articles on [twitter.com/_OpenAl](twitter.com/_OpenAl)
+- 📝 I regularly write articles on [twitter.com/_NexGenWeb3](twitter.com/_NexGenWeb3)
 
 - 💬 Ask me about **How We works, How we Can collaborate and etc.**
 
@@ -43,8 +43,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_openal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="openal" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_NexGenWeb3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NexGenWeb3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
